@@ -1,0 +1,15 @@
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\bin\Debug\net7.0\Nombre.exe
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\bin\Debug\net7.0\Nombre.deps.json
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\bin\Debug\net7.0\Nombre.runtimeconfig.json
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\bin\Debug\net7.0\Nombre.dll
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\bin\Debug\net7.0\Nombre.pdb
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.csproj.AssemblyReference.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.AssemblyInfoInputs.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.AssemblyInfo.cs
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.dll
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\refint\Nombre.dll
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.pdb
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\Nombre.genruntimeconfig.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Nombre\obj\Debug\net7.0\ref\Nombre.dll
