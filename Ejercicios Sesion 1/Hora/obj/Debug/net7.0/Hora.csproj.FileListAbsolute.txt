@@ -1,0 +1,15 @@
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\bin\Debug\net7.0\Hora.exe
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\bin\Debug\net7.0\Hora.deps.json
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\bin\Debug\net7.0\Hora.runtimeconfig.json
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\bin\Debug\net7.0\Hora.dll
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\bin\Debug\net7.0\Hora.pdb
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.csproj.AssemblyReference.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.AssemblyInfoInputs.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.AssemblyInfo.cs
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.dll
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\refint\Hora.dll
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.pdb
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\Hora.genruntimeconfig.cache
+C:\Cursos\C#\Ejercicios\Ejercicios Sesion 1\Hora\obj\Debug\net7.0\ref\Hora.dll
