@@ -1,5 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Escribe tu nombre");
-string? nombre;
-nombre=Console.ReadLine();
-Console.WriteLine("Hello, "+nombre);
+
+Console.WriteLine("Son las, "+DateTime.Now.ToString("hh:mm:ss"));
